@@ -10,5 +10,12 @@ public class GitCodes {
 	private void gitBash() {
 	System.out.println("Give unix commands in command template");
 	}
+	
+	public static void main(String[] args) {
+		GitCodes g=new GitCodes();
+		g.git();
+		g.gitBash();
+		
+	}
 
 }
