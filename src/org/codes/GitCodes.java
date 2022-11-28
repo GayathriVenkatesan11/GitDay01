@@ -7,11 +7,6 @@ public class GitCodes {
 
 	}
 	
-	private void gitHub() {
-		System.out.println("Cloud based server-repository");
-
-	}
-	
 	private void gitBash() {
 	System.out.println("Give unix commands in command template");
 	}
